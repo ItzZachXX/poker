@@ -1,0 +1,11 @@
+{
+  "name": "River Hold'em",
+  "short_name": "River",
+  "description": "No-limit Texas Hold'em with full table rules, a coach that shows your odds, computer opponents, pass and play, and online tables. Play chips only.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1014",
+  "theme_color": "#0e1014",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
